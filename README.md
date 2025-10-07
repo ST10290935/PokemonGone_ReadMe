@@ -56,8 +56,9 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
 ## About The Project
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/a107be7e-3084-4c39-8760-bd84a0b4a69f" alt="Logo" style="width: 170px; height: 170px; border-radius: 50%; object-fit: cover; border: 2px solid #ddd;">
+  <img src="https://github.com/user-attachments/assets/774e55a9-0dee-4c91-acb7-a282fffcb0d5" alt="Logo" style="width: 170px; height: 170px; border-radius: 50%; object-fit: cover; border: 2px solid #ddd;">
 </p>
+
 
 
 PokeQuest is an immersive exploration and collecting experience that brings the thrill of discovery to your mobile device. Players can explore a dynamic world, track nearby creatures, and capture them to build their personal collection. With intuitive controls and an interactive map, every step you take could lead to encountering a rare or powerful creature. Whether you’re casually exploring or striving to complete your collection, this game offers an engaging and rewarding adventure for all players.
