@@ -217,12 +217,12 @@ To get a local copy of the project running, follow these steps.
 2. How to Run
 <details>
   <div style="color: #333;">
-    <p>Follow these steps to install and set up the <strong>CashFlow</strong> app on your local machine:</p>
+    <p>Follow these steps to install and set up the <strong>PokeQuest</strong> app on your local machine:</p>
   <details>
       <summary style="font-weight: bold; color: #2196F3;">1. Clone the Repository</summary>
       <div style="color: #333;">
         <p>To get the source code, first clone the repository from GitHub:</p>
-        <pre><code>git clone https://github.com/ST10143151/CashFlow_Latest.git</code></pre>
+        <pre><code>git clone https://github.com/ST10290935/PokemonGone6_Final_APK_V7.git</code></pre>
         <p>This command will create a local copy of the repository on your machine. You can now navigate to the project folder.</p>
       </div>
     </details>
@@ -232,7 +232,7 @@ To get a local copy of the project running, follow these steps.
       <div style="color: #333;">
         <p>1. Launch <strong>Android Studio</strong>.</p>
         <p>2. In Android Studio, go to <strong>File</strong> → <strong>Open</strong>.</p>
-        <p>3. Navigate to the folder where you cloned the repository (<strong>CashFlow_Latest</strong>).</p>
+        <p>3. Navigate to the folder where you cloned the repository (<strong>PokemonGone6_Final_APK_V7</strong>).</p>
         <p>4. Select the project folder and click <strong>OK</strong>. Android Studio will sync the project with Gradle.</p>
       </div>
     </details>
