@@ -143,7 +143,7 @@ PokeQuest is an immersive exploration and collecting experience that brings the 
         <sub>📊 Main Screen</sub>
       </td>
       <td align="center">
-        <img src="(https://github.com/user-attachments/assets/e5602826-e756-4646-93b6-ef4bb40f7040" alt="Screenshot 4" width="200"><br>
+        <img src="https://github.com/user-attachments/assets/e5602826-e756-4646-93b6-ef4bb40f7040" alt="Screenshot 4" width="200"><br>
         <sub>🥅 Captured</sub>
       </td>
       <td align="center">
