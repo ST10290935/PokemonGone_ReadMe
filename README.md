@@ -165,8 +165,11 @@ PokeQuest is an immersive exploration and collecting experience that brings the 
   </table>
 </p>
 
-
-
+## REST API GitHub Link
+Clone the repository
+  ``sh
+   git clone https://github.com/ST10290935/pokemon-api2.git
+   
 ### YouTube Link
 
 https://youtu.be/B17f7LfqxJQ
