@@ -12,7 +12,7 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
 <!-- Project Heading -->
 
 
-<h3 align="center">PokeQuest.</h3>
+## <h3 align="center">PokeQuest.</h3>
 
 <p align="center">
   <a href="https://github.com/ST10290935/PokemonGone6_Final_APK_V7.git"><strong>Explore the Docs »</strong></a>
