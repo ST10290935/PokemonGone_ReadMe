@@ -238,8 +238,11 @@ https://youtu.be/B17f7LfqxJQ
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Room Database](https://img.shields.io/badge/Room-Database-00796B?style=for-the-badge)](https://developer.android.com/training/data-storage/room)
-[![Chart Library](https://img.shields.io/badge/Chart-Library-4CAF50?style=for-the-badge)](https://github.com/PhilJay/MPAndroidChart)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![OSMDroid](https://img.shields.io/badge/OSMDroid-Map-3AA53A?style=for-the-badge&logo=openstreetmap&logoColor=white)](https://github.com/osmdroid/osmdroid)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
