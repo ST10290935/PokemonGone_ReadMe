@@ -211,7 +211,7 @@ To get a local copy of the project running, follow these steps.
 
 1. Clone the repository
    ```sh
-   git clone https://github.com/ST10143151/CashFlow_Latest.git
+   git clone https://github.com/ST10290935/PokemonGone6_Final_APK_V7.git
    
 2. How to Run
 <details>
