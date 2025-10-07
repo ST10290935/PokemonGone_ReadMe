@@ -67,6 +67,62 @@ PokeQuest is an immersive exploration and collecting experience that brings the 
 ## Features
 <details> <summary style="font-weight: bold;">Explore the world and discover creatures</summary> <p>Move around the in-game world and encounter wild creatures that appear randomly around you. Each area holds new surprises—rare, legendary, or even hidden creatures waiting to be found.</p> </details> <details> <summary style="font-weight: bold;">Capture and collect creatures</summary> <p>Engage with wild creatures and capture them to expand your collection. Every captured creature is stored in your in-game encyclopedia, where you can view their details and stats.</p> </details> <details> <summary style="font-weight: bold;">Augmented Reality encounters</summary> <p>Enable AR mode to see creatures appear through your phone’s camera as if they exist in the real world. Walk around, aim your device, and discover creatures right before your eyes.</p> </details> <details> <summary style="font-weight: bold;">Directional guidance and nearby alerts</summary> <p>Get real-time alerts and hints when new creatures appear nearby. The system guides you toward the correct direction, making exploration more interactive and exciting.</p> </details> <details> <summary style="font-weight: bold;">Build your personal encyclopedia</summary> <p>Every creature you capture is added to your encyclopedia. View their names, images, and stats, and try to complete your full collection by discovering them all.</p> </details> <details> <summary style="font-weight: bold;">Customize your avatar and map</summary> <p>Personalize your in-game character with custom avatars and explore the map in different themes or styles to match your playstyle.</p> </details>
 
+## What we added
+<details>
+  <summary style="font-weight: bold;">🕶️ Augmented Reality (AR) Capture Mode</summary>
+  <p>We implemented a fully functional AR Capture Mode that allows players to view and interact with creatures through their phone's camera, simulating real-world encounters.</p>
+  <ul>
+    <li>Players can toggle AR mode directly from the main interface using the AR Button.</li>
+    <li>When activated, the app uses the device's camera feed as a background and overlays creature images in the environment.</li>
+    <li>Players can tap or interact with these AR creatures to capture them just like on the main map.</li>
+    <li>This mode works independently of map location, allowing immersive gameplay in any setting.</li>
+  </ul>
+  <p><strong>Enhancement Added:</strong> The AR system is lightweight and flexible, making it easy to extend with future 3D creature models or animations.</p>
+</details>
+
+<details>
+  <summary style="font-weight: bold;">🎯 Gamification & Progression System</summary>
+  <p>To promote activity and engagement, we introduced a step-based progression system tied to the device's movement sensors.</p>
+  <ul>
+    <li>The app tracks the player's real-world steps and updates an on-screen counter in real time.</li>
+    <li>Players can earn experience points (XP) or rewards for walking or exploring, encouraging physical activity.</li>
+    <li>A leaderboard system is under development to allow friendly competition among players, showcasing top explorers and collectors.</li>
+  </ul>
+  <p><strong>Enhancement Added:</strong> The game dynamically rewards players based on movement patterns, laying the foundation for achievements, badges, and daily goals in future updates.</p>
+</details>
+
+<details>
+  <summary style="font-weight: bold;">🧍‍♂️ Customizable Avatars & Profiles</summary>
+  <p>Players can now personalize their in-game presence with custom avatars and player information.</p>
+  <ul>
+    <li>The app provides a profile card at the bottom of the screen showing the player's name, avatar image, and step count.</li>
+    <li>Users can update their details through the Settings screen, with future support planned for avatar selection and outfit customization.</li>
+    <li>This system supports persistent data, ensuring that player information is retained across sessions.</li>
+  </ul>
+  <p><strong>Enhancement Added:</strong> The modular profile system allows easy expansion for themes, cosmetic upgrades, and linked achievements.</p>
+</details>
+
+<details>
+  <summary style="font-weight: bold;">🔄 Offline Catch & Sync Mode</summary>
+  <p>We designed the game to be playable even without an internet connection.</p>
+  <ul>
+    <li>Creature data and captured collections are stored locally using RoomDB, ensuring players can catch and view creatures offline.</li>
+    <li>Once connectivity is restored, data can be synced with the server or backed up automatically to preserve progress.</li>
+    <li>This feature guarantees uninterrupted gameplay regardless of network availability.</li>
+  </ul>
+  <p><strong>Enhancement Added:</strong> The local database architecture also enables smoother transitions between online and offline play, reducing lag and data loss.</p>
+</details>
+
+<details>
+  <summary style="font-weight: bold;">🌍 Additional Improvements</summary>
+  <p>Beyond the planned features, our implementation includes several unexpected upgrades that enhance user experience:</p>
+  <ul>
+    <li><strong>Dynamic Creature Spawning System</strong> — Creatures now spawn randomly around the player's location over a wider radius for better exploration balance.</li>
+    <li><strong>Directional Guidance</strong> — The app provides compass-based hints and directional arrows to help locate nearby creatures.</li>
+    <li><strong>Expanded Encyclopedia</strong> — A full in-game creature index tracks all captured and discovered creatures, with rich visual details.</li>
+    <li><strong>Polished UI/UX Design</strong> — Enhanced button placement, responsive layouts, and consistent visual theming for an immersive experience.</li>
+  </ul>
+</details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Application Preview
