@@ -211,6 +211,16 @@ PokeQuest is an immersive exploration and collecting experience that brings the 
   </table>
 </p>
 
+## Future Enhancements
+<details>
+  <ul>
+    <li><strong>Online multiplayer events and shared creature hunts:</strong> Collaborate with friends in real-time to discover and capture rare creatures together.</li>
+    <li><strong>Advanced 3D creature models:</strong> Bring creatures to life with detailed 3D models and realistic animations.</li>
+    <li><strong>Enhanced AR animations and gestures:</strong> Add interactive gestures and dynamic animations to make AR encounters more immersive.</li>
+    <li><strong>Social sharing features and friend lists:</strong> Share your catches, compete on leaderboards, and build a community of fellow adventurers.</li>
+  </ul>
+</details>
+
 ## REST API GitHub Link
 
 https://github.com/ST10290935/pokemon-api2.git
