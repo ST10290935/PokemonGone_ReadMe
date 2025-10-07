@@ -146,6 +146,31 @@ PokeQuest is an immersive exploration and collecting experience that brings the 
   </ul>
 </details>
 
+## GitHub & GitHub Actions
+
+<details>
+  <summary style="font-weight: bold;">Repository Management</summary>
+  <ul>
+    <li><strong>Branches:</strong>
+      <ul>
+        <li><code>main</code> – stable production-ready branch</li>
+      </ul>
+    </li>
+    <li><strong>Pull Requests (PRs):</strong> Every new feature or fix is proposed via a PR, ensuring team review and clean merges.</li>
+  </ul>
+</details>
+
+<details>
+  <summary style="font-weight: bold;">GitHub Actions (CI/CD)</summary>
+  <p>We integrated GitHub Actions for continuous integration and testing.</p>
+  <p><strong>Automated Workflows Include:</strong></p>
+  <ul>
+    <li><strong>Build Verification:</strong> Automatically builds the Android project on every commit to ensure there are no compilation errors.</li>
+    <li><strong>Unit Testing:</strong> Runs all automated tests before merging to <code>main</code>.</li>
+  </li>
+  </ul>
+</details>
+
 ### Application Preview
 
 <p align="center">
