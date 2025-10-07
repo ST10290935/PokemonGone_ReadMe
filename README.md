@@ -10,21 +10,19 @@ othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Availabl
  -->
 
 <!-- Project Heading -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F57C&center=true&vCenter=true&width=500&lines=Welcome+to+CashFlow!;Track+Expenses+Easily!;Budget+Like+a+Pro!💸" alt="Typing SVG" />
-</p>
 
-<h3 align="center">CashFlow - Master Your Money, One Budget at a Time.</h3>
+
+<h3 align="center">PokeQuest.</h3>
 
 <p align="center">
-  <a href="https://github.com/ST10143151/CashFlow_Latest"><strong>Explore the Docs »</strong></a>
+  <a href="https://github.com/ST10290935/PokemonGone6_Final_APK_V7.git"><strong>Explore the Docs »</strong></a>
   <br />
   <br />
-  <a href="https://github.com/ST10143151/CashFlow_Latest">View Demo</a>
+  <a href="https://github.com/ST10290935/PokemonGone6_Final_APK_V7.git">View Demo</a>
   ·
-  <a href="https://github.com/ST10143151/CashFlow_Latest/issues">Report Bug</a>
+  <a href="https://github.com/ST10290935/PokemonGone6_Final_APK_V7.git/issues">Report Bug</a>
   ·
-  <a href="https://github.com/ST10143151/CashFlow_Latest/issues">Request Feature</a>
+  <a href="https://github.com/ST10290935/PokemonGone6_Final_APK_V7.git/issues">Request Feature</a>
 </p>
 
 
