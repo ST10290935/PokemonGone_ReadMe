@@ -131,56 +131,41 @@ PokeQuest is an immersive exploration and collecting experience that brings the 
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/4f475e5b-a9bf-490e-98bc-91e50e2aff3d" alt="Screenshot 1" width="200"><br>
+        <img src="https://github.com/user-attachments/assets/8c5dfb30-5456-461e-9b42-e6405ffe5ee8" alt="Screenshot 1" width="200"><br>
         <sub>🔐 Register</sub>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/a231c364-8934-439d-8a04-ca6b266ce212" alt="Screenshot 2" width="200"><br>
+        <img src="https://github.com/user-attachments/assets/96789cc5-057b-47d8-bed9-251ea980dfd2" alt="Screenshot 2" width="200"><br>
         <sub>🔐 Login </sub>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/246a65c1-c7d0-42e0-b1e4-cf168092b77e" alt="Screenshot 3" width="200"><br>
-        <sub>📊 Dashboard</sub>
+        <img src="https://github.com/user-attachments/assets/d21bc3d9-db51-4696-b73a-1c0ebbc508c3" alt="Screenshot 3" width="200"><br>
+        <sub>📊 Main Screen</sub>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/4891c0be-0797-4c2b-995e-3f492ae6e9e0" alt="Screenshot 4" width="200"><br>
-        <sub>💸 Tracking</sub>
+        <img src="(https://github.com/user-attachments/assets/e5602826-e756-4646-93b6-ef4bb40f7040" alt="Screenshot 4" width="200"><br>
+        <sub>🥅 Captured</sub>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/864a298a-7a15-4233-8625-61eb4d7ab903" alt="Screenshot 5" width="200"><br>
-        <sub>📈 Reports</sub>
+        <img src="https://github.com/user-attachments/assets/87ca905a-b8d9-4c07-a3ec-f138c06731ea" alt="Screenshot 5" width="200"><br>
+        <sub>📖 CreatureDex</sub>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/456fe0cc-b814-4ba9-a53b-1f926eade863" alt="Screenshot 6" width="200"><br>
-        <sub>🖥 Feature</sub>
+        <img src="https://github.com/user-attachments/assets/1354d64b-f6fc-4c01-8bd4-f8d92807be71" alt="Screenshot 6" width="200"><br>
+        <sub>🕶️ AR</sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/46644294-a57e-48ee-aa76-2919e032bef9" alt="Screenshot 7" width="200"><br>
-        <sub>📅 Budgeting</sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/6f0bf2b6-f29c-4883-9897-2f9ec1d8fb28" alt="Screenshot 8" width="200"><br>
-        <sub>🔍 Filtering</sub>
-      </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/5b199712-c24a-4374-83c6-7cf929955a17" alt="Screenshot 9" width="200"><br>
-        <sub>🛠 Categories</sub>
-      </td>
-      <!-- Empty cells to keep row aligned -->
-      <td>
-        <img src="https://github.com/user-attachments/assets/a10df17a-95b6-44e1-8d21-1d71790382b8" alt="Screenshot 9" width="200"><br>
-        <sub>⬆️ Upload</sub>
-      </td>
-      <td>
-        <img src="https://github.com/user-attachments/assets/b2c1c9b9-309a-4962-92a1-5bc63f74c924" alt="Screenshot 9" width="200"><br>
-        <sub>⬇️ Download</sub>
+        <img src="https://github.com/user-attachments/assets/b8c16cfc-de29-4ac1-ac68-6fd85f496ef1" alt="Screenshot 7" width="200"><br>
+        <sub>⚙️ Settings</sub>
       </td>
       <td></td>
     </tr>
   </table>
 </p>
+
+
 
 ### YouTube Link
 
