@@ -124,6 +124,28 @@ PokeQuest is an immersive exploration and collecting experience that brings the 
 </details>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Design Considerations
+
+<details>
+  <summary style="font-weight: bold;">🎨 Visual Design</summary>
+  <ul>
+    <li><strong>Map-Centered UI:</strong> The game's map is the main interface, ensuring players can intuitively navigate their surroundings.</li>
+    <li><strong>Minimal Distraction:</strong> Clean overlays (buttons, compass, avatar card) maintain focus on exploration.</li>
+    <li><strong>Vibrant Theme:</strong> Colorful icons and gradients reflect the spirit of adventure and discovery.</li>
+    <li><strong>Consistent Visual Hierarchy:</strong> All buttons follow a clear visual pattern for quick recognition.</li>
+  </ul>
+</details>
+
+<details>
+  <summary style="font-weight: bold;">🧭 Gameplay & Interaction</summary>
+  <ul>
+    <li><strong>Dynamic Creature Spawning:</strong> Creatures spawn randomly around the player to encourage exploration.</li>
+    <li><strong>Guiding Arrows:</strong> Visual indicators help locate nearby creatures.</li>
+    <li><strong>Real-Time Movement:</strong> Player movement updates dynamically based on device sensors.</li>
+    <li><strong>Touch Interaction:</strong> Simple tap-based AR capture interface ensures accessibility for all users.</li>
+  </ul>
+</details>
+
 ### Application Preview
 
 <p align="center">
