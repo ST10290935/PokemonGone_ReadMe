@@ -385,27 +385,8 @@ To get a local copy of the project running, follow these steps.
 
 ### References
 
-Android Knowledge, 2023. RecyclerView in Android Studio using Kotlin | Android Knowledge. [video online] Available at: <https://youtu.be/UDfyZLWyyVM?si=XkKwy4-9apD5AZcW> [Accessed 7 April 2025].
 
-AndroidWithShiv, 2023. Room Database | CRUD Operation in ROOM DB | Android Studio | JAVA | #android #java #database. [video online] Available at: <https://youtu.be/r-ua6f6LmJA?si=NtFoH1Z_Mng2GYrT> [Accessed 1 April 2025].
 
-Canva, 2017. Purple and Pink Modern Bold Business Service Promotion Ads Video. [online] Available at: <https://www.canva.com/design/DAGmSOYchmA/HX7fOULb6qsX6JX10ZN9hw/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19fQ> [Accessed 2 May 2025].
-
-Codrikaz, 2022. How to Remove Status Bar | How to Change the Color of the Status Bar | Android Studio | codrikaz. [video online] Available at: <https://youtu.be/VnzwhgiBj_Q?si=3NEsndemuJ_p_OdX> [Accessed 26 April 2025].
-
-Coding Meet, 2023. How to Store and Retrieve Images in Room Database | Android Studio Kotlin Tutorial. [video online] Available at: <https://youtu.be/0NVm3uVRNzg?si=n_sPPOCgiC0pQ8do> [Accessed 4 April 2025].
-
-DentistKiller., 2024. fakeBook (version 1) [Source code]. Available at: <https://github.com/Dentistkiller/fakeBook.git> [Accessed 27 April 2025].
-
-Education is Life (joed goh), 2021. 07 Styles and Themes - User Interface | Material Design System | Android App Development in Kotlin. [video online] Available at: <https://youtu.be/ynOUzHFFMeg?si=puOjYNC9NjNCBSfD> [Accessed 26 April 2025].
-
-how to videos, 2022. Insert image into database and retrieve in navigation drawer (android studio)(android tutorials). [video online] Available at: <https://youtu.be/8_LuejJEF7o?si=Hhr8a8QOxmGuFaAV> [Accessed 4 April 2025].
-
-othneildrew., 2024. Best-README-Template (version 1.1.2) [Source code]. Available at: <https://github.com/othneildrew/Best-README-Template.git> [Accessed 26 April 2025].
-
-Stevdza-San, 2020. ROOM Database - #1 Create Database Schema | Android Studio Tutorial. [video online] Available at: <https://youtu.be/lwAvI3WDXBY?si=mq1S9X37wiOx5aX5> [Accessed 1 April 2025].
-
-United Top Tech, 2020. App crashes without errors solved in Android studio. [video online] Available at: <https://youtu.be/vX4rO-ShHWs?si=2lgeTLV-pmrmYR0Y> [Accessed 26 April 2025].
 
 
 
